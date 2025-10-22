@@ -21,7 +21,7 @@ Try candidates `nums[i]`, `nums[i]-k`, `nums[i]+k` (deduplicated). For each cand
 
 
 ## Contributing
-See `CONTRIBUTING.md`.
+See `See [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 
 ## License
