@@ -1,41 +1,21 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Linker files
-*.ilk
-
-# Debugger Files
-*.pdb
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
+# Compiled C++ binaries
+test
 *.out
-*.app
+*.exe
 
-# debug information files
-*.dwo
+# Python cache & virtual environment
+__pycache__/
+*.pyc
+.venv/
+
+# VSCode and Codespaces settings
+.vscode/
+.history/
+*.code-workspace
+
+# Devcontainer temporary files
+.devcontainer/.env
+
+# System files
+.DS_Store
+Thumbs.db
