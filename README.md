@@ -26,3 +26,15 @@ See `See [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 ## License
 This project is licensed under the MIT License.
+
+---
+
+## 🌐 Connect with Me
+
+[![X (Twitter)](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/fauznahl_)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cruzlvo)
+[![Farcaster](https://img.shields.io/badge/Farcaster-6A00FF?style=for-the-badge&logo=farcaster&logoColor=white)](https://warpcast.com/cruzlv)
+
+---
+
+⭐ **Follow for more open-source LeetCode projects and Web3 experiments.**
