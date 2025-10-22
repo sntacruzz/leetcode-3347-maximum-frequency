@@ -18,24 +18,21 @@ git commit -m "Add optimized Python solution"
 5. Push & open a Pull Request to the main branch.
 Briefly explain what you changed and why.
 
-🧠 Guidelines
+## 🧠 Guidelines
 
-Keep code clean and readable.
-
-Use meaningful variable names.
-
-Add comments for complex logic.
-
-Test your code before opening a PR.
+- Keep code clean and readable.
+- Use meaningful variable names.
+- Add comments for complex logic.
+- Test your code before opening a PR.
 
 Follow branch naming like:
 feature/<something-new>
 fix/<something-fixed>
 docs/<doc-update>
 
-🌟 Final Note
+## 🌟 Final Note
 
 This repo is all about learning and sharing — don’t worry about perfection.
 Every PR, even small ones, helps the community grow. 💪
 
-Made with ❤️ by @fauzanhl_
+Made with ❤️ by [@fauznahl_](https://x.com/fauznahl_)
