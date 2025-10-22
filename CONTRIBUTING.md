@@ -35,4 +35,4 @@ docs/<doc-update>
 This repo is all about learning and sharing — don’t worry about perfection.
 Every PR, even small ones, helps the community grow. 💪
 
-Made with ❤️ by [@fauznahl_](https://x.com/fauznahl_)
+Made with ❤️ by [@fauzanhl_](https://x.com/fauzanhl_)
