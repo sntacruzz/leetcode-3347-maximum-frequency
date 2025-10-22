@@ -1,0 +1,15 @@
+{
+"name": "LeetCode Solutions",
+"image": "mcr.microsoft.com/devcontainers/cpp:0-ubuntu-22.04",
+"features": {
+"ghcr.io/devcontainers/features/python:1": {}
+},
+"customizations": {
+"vscode": {
+"extensions": [
+"ms-vscode.cpptools",
+"ms-python.python"
+]
+}
+}
+}
